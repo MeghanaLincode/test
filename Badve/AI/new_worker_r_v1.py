@@ -14,7 +14,7 @@ import threading
 from PIL import Image
 import copy
 import numpy as np
-
+print(" Hello Git ")
 rch = CacheHelper()
 opt = opt_config()
 defects = opt.defects
